@@ -1,8 +1,11 @@
 # 四川大学JW系统验证码 训练集
 ## 更新
-+ 已经基于本仓库内的生成方法生成了10w个数据集训练的深度学习模型，并已经发布到pip（PYPI），在有pytorch的基础上可以通过`pip install scu_captcha`以下载使用。
-+ 
++ 已经基于本仓库内的生成方法生成了10w个数据集训练的深度学习模型，并已经发布到pip（PYPI），在有pytorch的基础上可以通过`pip install scu_captcha`以下载使用。 
+
     [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SunnyHaze&repo=scu-captcha)](https://github.com/SunnyHaze/scu-captcha)
++ 10w数据集百度网盘链接：
+  + 链接：https://pan.baidu.com/s/1fqOLhP7FSb6oa61NAa4CIQ 
+  + 提取码：7gjy
 ## 简介
 + 本仓库中含有 10000 条四川大学JW系统验证码，并已经打上对应的标签
 ![](README_IMG/预览.png)
