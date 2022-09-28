@@ -8,6 +8,13 @@
   + 提取码：7gjy
 ## 简介
 + 本仓库中含有 10000 条四川大学JW系统验证码，并已经打上对应的标签
++ 数据集采用谷歌的[Kaptcha](https://code.google.com/archive/p/kaptcha/)生成。
++ 实际使用时魔改了此Github仓库的代码用于渲染生成：
+
+    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oopsguy&repo=kaptcha-spring-boot)](https://github.com/oopsguy/kaptcha-spring-boot)
+
+   >因为魔改实在过于丑陋，就不放本人的源代码在这里了。
+ 
 ![](README_IMG/预览.png)
 + 可以用于深度学习的训练集，尝试构建Hack JWC的深度学习模型
 + 验证码图片存储于[IMAGES.zip](IMAGES.zip)中
