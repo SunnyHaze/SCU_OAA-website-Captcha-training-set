@@ -1,5 +1,6 @@
-# 四川大学JW系统验证码 训练集
+# JW系统验证码 训练集
 ## 更新
++ [2023/12/13] **目前JWC已经更换为了非常复杂的验证码 （中文+动画+闪烁），所以本仓库仅供娱乐实验使用。**
 + 已经基于本仓库内的生成方法生成了10w个数据集训练的深度学习模型，并已经发布到pip（PYPI），在有pytorch的基础上可以通过`pip install scu_captcha`以下载使用。 
 
     [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SunnyHaze&repo=scu-captcha)](https://github.com/SunnyHaze/scu-captcha)
